@@ -25,7 +25,7 @@ export default function Hero() {
           <Reveal>
             <span className="hero__eyebrow">
               <span />
-              Персональная ОС питания
+              Персональная ОС питания!
             </span>
           </Reveal>
 
